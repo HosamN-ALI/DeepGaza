@@ -1,0 +1,11 @@
+streamlit
+bcrypt
+python-dotenv
+openai
+textract==1.6.3
+textract==1.6.3
+
+python-magic
+python-dateutil
+pandas
+requests
